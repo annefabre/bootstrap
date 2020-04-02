@@ -1,0 +1,8 @@
+.jumbotron-hero
+{
+  height: 500px;
+  background-image: url("plage.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
